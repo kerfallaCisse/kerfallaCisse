@@ -1,9 +1,9 @@
 ## 👋 About Me
 
-My name is **Kerfalla CISSE**, co-founder of **AmenityDev**, a Swiss AI company.
+My name is **Kerfalla CISSE**, co-founder of [AmenityDev SA](https://amenitydev.com/en), a Swiss AI company.
 
-I specialize in **Artificial Intelligence** and **Semantic AI** through **Knowledge Engineering**.  
-I also work on **project management** and the development of intelligent systems.
+I specialize in **Artificial Intelligence** and **Semantic AI** through **Knowledge Engineering**, building systems that leverage AI to solve real-world problems 
+I also work on **project management**.
 
 ## 💻 Technologies
 
