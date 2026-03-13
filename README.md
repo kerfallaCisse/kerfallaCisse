@@ -1,16 +1,17 @@
-## Hi there 👋
+## 👋 About Me
 
-<!--
-**kerfallaCisse/kerfallaCisse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is **Kerfalla CISSE**, co-founder of **AmenityDev**, a Swiss AI company.
 
-Here are some ideas to get you started:
+I specialize in **Artificial Intelligence** and **Semantic AI** through **Knowledge Engineering**.  
+I also work on **project management** and the development of intelligent systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Technologies
+
+- **Backend:** Python, Java  
+- **Frontend:** React, Next.js  
+- **Other:** Semantic Web technologies
+
+## 📫 Contact
+
+- Personal email: kerfciss@gmail.com  
+- Company email: kerfalla.cisse@amenitydev.com
